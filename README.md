@@ -1,5 +1,4 @@
-<h1>MultiLogger</h1>
-<h2>A logging tool for Unity</h2>
+<h1>MultiLogger</h1> <h2>A logging tool for Unity</h2>
 
 To use this script, copy this script to your project then create a new instance of it in each script you want to log from
   and call the methods.
