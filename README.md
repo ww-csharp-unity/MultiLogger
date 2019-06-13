@@ -10,7 +10,7 @@ IE:
 <h3>Methods:</h3>
 
 `WriteToLog(string logMessage)`
-Call this method and pass a $ formatted string by itself to inject that string to the log file on disk.
+Call this method and pass a $ formatted string by itself to inject that string into the log file on disk.
 
 
 `WriteToConsole(string optionalMessage = "", int optionalInt = -400, float optionalFloat = -400)`
