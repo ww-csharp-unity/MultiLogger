@@ -1,6 +1,9 @@
 <h1>MultiLogger</h1>
 <h3>A logging tool for Unity</h3>
-To use this script, copy this script to your project and place it on any object that will be live throughout the entire game. <b>This may require a singleton.</b>
+To use this script, copy this script to your project and place it on any object that will be live throughout the entire game. Then just call the methods as they are static. <b>This may require a singleton.</b>
+
+IE:
+`Logger.WriteToLog("test test");`
   
 <h3>Methods:</h3>
 
